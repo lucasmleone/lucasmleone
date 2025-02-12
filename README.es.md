@@ -1,7 +1,5 @@
 ![Lucas Matías Leone](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lucas%20Matías%20Leone&fontSize=35&fontAlign=50)
 
-# 👋 ¡Hola, soy Lucas Matías Leone!  
-
 💻 **Desarrollador Full Stack** | 🚀 **En camino a ser DevOps Engineer**  
 
 📌 🌎 [English Version](README.md)  
