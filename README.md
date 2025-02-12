@@ -1,32 +1,30 @@
 ![Banner](https://source.unsplash.com/1600x400/?technology,code)
 
-# 👋 ¡Hola, soy Lucas Matías Leone!  
+# 👋 Hi, I'm Lucas Matías Leone!  
 
-💻 **Full Stack Developer** | 🚀 **En camino a ser DevOps Engineer**  
+💻 **Full Stack Developer** | 🚀 **Aspiring DevOps Engineer**  
 
-📌 **Ingeniero Industrial** que redirigió su carrera hacia la tecnología, especializándose en **desarrollo web full stack**. Actualmente, me encuentro profundizando en **DevOps y automatización**, buscando integrar desarrollo y operaciones para optimizar procesos.  
+📌 🌎 [Versión en Español](README.es.md)  
 
 ---
 
 ## 🛠️ Skills  
 
-- **Lenguajes:** JavaScript, TypeScript, Python  
+- **Languages:** JavaScript, TypeScript, Python  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Node.js, Express  
-- **Bases de Datos:** MongoDB, MySQL  
-- **Control de Versiones:** Git, GitHub  
-
-⚡ **Explorando:** Infraestructura como código, CI/CD y automatización en DevOps.  
+- **Databases:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
 
 ---
 
-## 📊 Lenguajes más usados  
+## 📫 Contact  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmleone&layout=compact&theme=radical)  
+📌 **LinkedIn:** [linkedin.com/in/lucasmatiasleone](https://www.linkedin.com/in/lucasmatiasleone)  
+📌 **Email:** lucasmleone@gmail.com  
 
 ---
 
-## 📫 Contacto  
-
-📌 **LinkedIn:** [linkedin.com/in/lucasmatiasleone](https://www.linkedin.com/in/lucasmatiasleone)    
-📌 **Email:** lucasmleone@gmail.com 
+### 🎓 About me  
+📌 Originally trained as an **Industrial Engineer**.  
+📌 I have lived in **Argentina, Spain, and Australia**.  
